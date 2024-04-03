@@ -17,7 +17,7 @@
 
 ## Sobre o Projeto
 
-![LotoFacil]()
+![LotoFacil](Imagens/LF01.png)
 ```
 Este é um projeto de sistema de loteria desenvolvido em Java. O sistema é capaz de gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios conforme as regras da loteria. O projeto utiliza o terminal para entrada e saída de dados.
 
