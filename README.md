@@ -19,9 +19,12 @@
 
 ![LotoFacil](Imagens/LF01.png)
 ```
-Este é um projeto de sistema de loteria desenvolvido em Java. O sistema é capaz de gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios conforme as regras da loteria. O projeto utiliza o terminal para entrada e saída de dados.
+Este é um projeto de sistema de loteria desenvolvido em Java. O sistema é capaz de gerar jogos
+aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios
+conforme as regras da loteria. O projeto utiliza o terminal para entrada e saída de dados.
 
-Esta e a primeira versão de duas, onde ainda se encontra sem uma Interface, apenas utilizando o terminal para acessar e manipular os jogos.
+Esta e a primeira versão de duas, onde ainda se encontra sem uma Interface, apenas utilizando o
+terminal para acessar e manipular os jogos.
 
 ```
 ## Feito Com
@@ -67,9 +70,12 @@ Veja as issues abertas para uma lista de funcionalidades propostas (e problemas 
 ```
 ## Contribuição
 ```
-Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito apreciadas.
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender,
+inspirar e criar. Todas as contribuições que você fizer são muito apreciadas.
 
-Se você tiver sugestões para adicionar ou remover projetos, sinta-se à vontade para abrir uma issue para discuti-la, ou criar diretamente um pull request após editar o arquivo README.md com as mudanças necessárias.
+Se você tiver sugestões para adicionar ou remover projetos, sinta-se à vontade para abrir uma 
+ssue para discuti-la, ou criar diretamente um pull request após editar o arquivo README.md com
+as mudanças necessárias.
 Por favor, verifique sua ortografia e gramática.
 Crie PR individual para cada sugestão.
 Por favor, leia também o Código de Conduta antes de postar sua primeira ideia.
@@ -77,5 +83,7 @@ Por favor, leia também o Código de Conduta antes de postar sua primeira ideia.
 
 ## Autor
 ```
-* **Gabriel Eugenio** - *Estudante de Sistema da Informação* - [Gabriel Eugenio](https://github.com/deweed/) - **
+Gabriel Eugenio
+Estudante de Sistema da Informação
+https://github.com/deweed/ 
 ```
